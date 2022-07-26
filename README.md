@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @WilliamsAbraham
+- 👋 Hi, I’m @WilliamsAbraham|| .Net Dev.
 - 👀 I’m interested Dotnet and C#
-- 🌱 I’m currently learning C# and Microsoft Blazor
 - 💞️ I’m looking to collaborate on web projects for now
 - 📫 How to reach me it's coming
 
